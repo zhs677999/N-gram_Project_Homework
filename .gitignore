@@ -1,0 +1,18 @@
+# 构建输出
+Build/
+debug/
+release/
+
+# Qt 生成文件
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
+
+# 临时文件
+*.tmp
+*.log
+*.swp
+
+# IDE配置
+.vscode/
